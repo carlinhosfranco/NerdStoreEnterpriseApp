@@ -431,3 +431,5 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+src/Services/NSE.Identidade.API/Properties*
+src/Services/NSE.Identidade.API/Properties/launchSettings.json
